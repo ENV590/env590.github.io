@@ -8,7 +8,7 @@ paginator: false
 title: "Economics of Modern Power Systems"
 tagline: "Instructor: Luana Lima <br>
           Duke University <br>
-          Fall 2022"
+          Fall 2023"
 header:
   overlay_image: /docs/assets/translines.jpeg
   overlay_filter: 0.4
