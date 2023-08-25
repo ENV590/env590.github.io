@@ -135,10 +135,10 @@ footer:
   links:
     - label: "Sakai"
       icon:
-      url: "https://sakai.duke.edu/portal/site/fc198b90-9d77-4c6b-8708-c9d0d044be5b"
+      url: "https://sakai.duke.edu/portal/site/56a79f78-bc10-4a77-b8e8-7b82e8f11a73/page/143e5e43-b082-40e0-af8b-0ff7fa64d801"
     - label: "Slack"
       icon: "fab fa-fw fa-slack"
-      url: "https://app.slack.com/client/T03UBGNG030/C03U3HYP9PH"
+      url: "https://app.slack.com/client/T05PT1Z49DF/D05NZSFNZ2B"
 #
 # Archives
 #  Type
