@@ -15,7 +15,8 @@ sidebar:
 # Course Overview
 ## Class Hours
 M-W 10:05 to 11:20 Gross Hall 100C (The Generator) <br>
-To join class on Zoom click [here](https://duke.zoom.us/j/91030346237?pwd=eGpDejNMcmR4SmVOZFR2enNrZjl2QT09). <br>
+To join class on Zoom click [here](https://duke.zoom.us/j/96596059981?pwd=Q0MxeTFQTGZBWmNKTUR3Q3J6SjEvZz09). <br>
+Meeting ID: 965 9605 9981
 Passcode: F2023 <br>
 
 ## Instructor

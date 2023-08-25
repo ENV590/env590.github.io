@@ -18,7 +18,7 @@ The proposed schedule below is subject to change. My initial plan is to cover al
 
 | Lecture | Module |   Date  | Topic | Homework |
 |----|----|--------|--------------|----|
-| L1 | <a href="/_pages/modulelist/" > M0 </a> | Aug 28 | Introductions and Course Overview  | Join Slack Workspace |
+| L1 | <a href="/_pages/modulelist/" > M0 </a> | Aug 28 | Introductions and Course Overview  | Join [Slack Workspace](https://join.slack.com/t/duke-2xw1946/shared_invite/zt-224ncrs7l-3YGJVIwKwXEA3vv0B2fWNA)  |
 | L2 |   <a href="/docs/modules/M1/" > M1 </a> | Aug 30 | Review of Electric Power Systems: Generator, Transmission, Distribution, Load <br> "Old" Grids and Its Problems, The Solution: Smart Grid <br> Introduction to Smart Grids or Modern Power Grids: Definition, Benefits, Opportunities and Challenges | [J1](https://sakai.duke.edu/portal/site/fc198b90-9d77-4c6b-8708-c9d0d044be5b/tool/26e522a4-84f3-4d97-9ad5-a7c405e8ea92/discussionForum/message/dfAllMessages)  |
 | - | - | Sep 4 | **Labor Day no classes** |  |
 | L3 | <a href="/docs/modules/M2/" > M2 </a> | Sep 6 | Smart Grid from Global Perspective: How electricity distribution will change? <br> Smart-meter deployment |- |
