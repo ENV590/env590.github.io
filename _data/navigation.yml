@@ -29,23 +29,23 @@ modules:
   - title: Module 1
     url: /docs/modules/M1/
   - title: Module 2
-    url: /docs/modules/M2/
+    url: /docs/modules/M2d/
   - title: Module 3
-    url: /docs/modules/M3/
+    url: /docs/modules/M3d/
   - title: Module 4
-    url: /docs/modules/M4/
+    url: /docs/modules/M4d/
   - title: Module 5
-    url: /docs/modules/M5/
+    url: /docs/modules/M5d/
   - title: Module 6
-    url: /docs/modules/M6/
+    url: /docs/modules/M6d/
   - title: Module 7
-    url: /docs/modules/M7/
+    url: /docs/modules/M7d/
   - title: Module 8
-    url: /docs/modules/M8/
+    url: /docs/modules/M8d/
   - title: Module 9
-    url: /docs/modules/M9/
+    url: /docs/modules/M9d/
   - title: Module 10
-    url: /docs/modules/M10/
+    url: /docs/modules/M10d/
 
 
 #    children:
