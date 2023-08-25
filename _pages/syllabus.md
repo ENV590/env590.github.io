@@ -6,7 +6,7 @@ output:
     df_print: paged
   pdf_document: default
 excerpt: Class Schedule
-last_modified_at: "2023-08-24"
+#last_modified_at: "2023-08-24"
 layout: single
 sidebar:
   nav: overview

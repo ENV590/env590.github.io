@@ -5,7 +5,7 @@ output:
   html_document:
     df_print: paged
 ##redirect_from: "/theme-setup/"
-last_modified_at: "2022-08-26"
+#last_modified_at: "2022-08-26"
 sidebar:
   nav: modules
 layout: single
