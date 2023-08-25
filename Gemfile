@@ -48,6 +48,6 @@ gem "faraday-retry"
 gem "kramdown"
 gem "kramdown-parser-gfm"
 
-group :jekyll_plugins do
-  gem "jekyll-last-modified-at"
-end
+#group :jekyll_plugins do
+#  gem "jekyll-last-modified-at"
+#end

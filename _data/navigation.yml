@@ -28,8 +28,8 @@ modules:
     url: /_pages/modulelist/
   - title: Module 1
     url: /docs/modules/M1/
-  - title: Module 2
-    url: /docs/modules/M2/
+  #- title: Module 2
+  #  url: /docs/modules/M2/
   # - title: Module 3
   #   url: /docs/modules/M3/
   # - title: Module 4
