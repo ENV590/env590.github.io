@@ -135,7 +135,7 @@ footer:
   links:
     - label: "Sakai"
       icon:
-      url: "https://sakai.duke.edu/portal/site/56a79f78-bc10-4a77-b8e8-7b82e8f11a73/page/143e5e43-b082-40e0-af8b-0ff7fa64d801"
+      url: "https://sakai.duke.edu/portal/directtool/358d185b-2395-4ab5-97c7-6d081044e0fa/"
     - label: "Slack"
       icon: "fab fa-fw fa-slack"
       url: "https://app.slack.com/client/T05PT1Z49DF/D05NZSFNZ2B"
