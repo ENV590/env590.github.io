@@ -59,7 +59,7 @@ The course consists of in-person lectures and discussions based on the readings.
 <tbody>
 <tr>
 <td markdown="span">Assignments</td>
-<td markdown="span">50%</td>
+<td markdown="span">40%</td>
 </tr>
 <tr>
 <td markdown="span">Journal Entries</td>
@@ -67,7 +67,7 @@ The course consists of in-person lectures and discussions based on the readings.
 </tr>
 <tr>
 <td markdown="span">Final Project</td>
-<td markdown="span">20%</td>
+<td markdown="span">30%</td>
 </tr>
 </tbody>
 </table>
