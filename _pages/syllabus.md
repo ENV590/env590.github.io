@@ -1,12 +1,12 @@
 ---
-title: "Economics of Modern Power Systems - Fall 2022"
+title: "Economics of Modern Power Systems - Fall 2023"
 permalink: /_pages/syllabus/
 output:
   html_document:
     df_print: paged
   pdf_document: default
 excerpt: Class Schedule
-last_modified_at: "2022-08-26"
+last_modified_at: "2023-08-24"
 layout: single
 sidebar:
   nav: overview
@@ -14,24 +14,24 @@ sidebar:
 
 # Course Overview
 ## Class Hours
-M-W 10:15 to 11:30 LSRC (Grainger Hall 2102) <br>
+M-W 10:05 to 11:20 Gross Hall 100C (The Generator) <br>
 To join class on Zoom click [here](https://duke.zoom.us/j/91030346237?pwd=eGpDejNMcmR4SmVOZFR2enNrZjl2QT09). <br>
-Passcode: F2022 <br>
+Passcode: F2023 <br>
 
 ## Instructor
 Luana Medeiros Marangon Lima <br>
-Office: Gross Hall - 101B <br>
+Office: Gross Hall - 102K <br>
 E-mail: luana.marangon.lima@duke.edu <br>
-Office hours: Wed 11:45-12:45pm (Gross Hall 101B or [Luana's Zoom](https://duke.zoom.us/my/luanalima)), or by appointment. <br>
+Office hours: Wed 11:30-13:00pm (Gross Hall 102K or [Luana's Zoom](https://duke.zoom.us/my/luanalima)), or by appointment. <br>
 
 ## Teaching Assistant
-Jeff Fromuth <br>
-email: jeffrey.fromuth@duke.edu <br>
+Marcio Ribeiro <br>
+email: marcio.ribeiro@duke.edu <br>
 Office hour: TBD <br>
 
 ## Communication
-We will use Slack for communication. I will add all students to the slack workspace I've created for the class. Using slack will assure I never miss an email from you and will also keep us one text message away! You may use slack on your computer and/or phone. <br>
-Click [here](https://join.slack.com/t/modernpowersystems/shared_invite/zt-1eyrbwh34-ZN7QVFbBX0avgh~1N1s8Vw) to join our slack workspace.
+We will use Slack for communication. I will add all students to the slack workspace I've created for the class. Using slack will assure I never miss an email/text from you and will also keep us one text message away! You may use slack on your computer and/or phone. <br>
+Click [here](https://join.slack.com/t/duke-2xw1946/shared_invite/zt-224ncrs7l-3YGJVIwKwXEA3vv0B2fWNA) to join our slack workspace.
 
 # Course Description
 The electric power grid is undergoing a major transformation. On the generation side we see an increase in renewable energy penetration driven by the need to reduce CO_2 emissions. On the demand side we face new consumption profiles such as plug-in vehicles, smart homes and smart buildings. The course will focus on the economics of modern power grids to facilitate the integration of these new agents. <br>
