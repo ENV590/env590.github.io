@@ -16,7 +16,7 @@ In this module we will discuss the changes in electricity distribution from an I
 
 ## Slides
 
-Here is a <a href="/docs/modules/PPTS/PSE_M2_SmartGrids_Distribution.pdf" > link </a> to the slide deck used in class.
+Here is a <a href="/docs/modules/PPTS/PSE_M2_F23_SmartGrids_Distribution.pdf" > link </a> to the slide deck used in class.
 
 ## Recordings (optional)
   <ul>

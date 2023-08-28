@@ -25,4 +25,4 @@ The class topics are divided into ten modules. Each module will have an assignme
 **M9 -** Use of System Charges: Efficient Operational Expenditure <br>
 **M10 -** Use of System Charges: Cost allocation principles, assumptions and methods <br>
 
-Here is a <a href="/docs/modules/PPTS/PSE_M0_ClassOverviewAndIntro.pdf" > link </a> to the slide deck used in the first day of class.
+Here is a <a href="/docs/modules/PPTS/PSE_M0_F23_ClassOverviewAndIntro.pdf" > link </a> to the slide deck used in the first day of class.
