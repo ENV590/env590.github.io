@@ -28,7 +28,7 @@ Office hours: Wed 11:30-13:00pm (Gross Hall 102K or [Luana's Zoom](https://duke.
 ## Teaching Assistant
 Marcio Ribeiro <br>
 email: marcio.ribeiro@duke.edu <br>
-Office hour: TBD <br>
+Office hours: M-W 1:00-3:00 pm (Grainger Hall 3120) <br>
 
 ## Communication
 We will use Slack for communication. I will add all students to the slack workspace I've created for the class. Using slack will assure I never miss an email/text from you and will also keep us one text message away! You may use slack on your computer and/or phone. <br>
@@ -78,6 +78,18 @@ You will work on assignments and journal in groups of two to ensure you are gett
 # Course Schedule
 Please check our detailed proposed schedule <a href="/_pages/lessons" > here </a>.
 
+# Wellness & Mental Health Resources
+Your mental and physical wellbeing is integral to your ability to be academically successful. Below, we have compiled a list of resources around campus that are available to support you. If there is something going on in your personal life that is preventing you from participating fully in this or other courses, please feel free to speak with any of us. You are welcome to share as much or as little as you are comfortable sharing, and we are more than happy to arrange to get you the support you need.
+
+**Counseling and Psychological Services:** CAPS helps Duke Students enhance strengths and develop abilities to successfully live, grow and learn in their personal and academic lives. We offer many services to Duke undergraduate, graduate, and professional students, including brief individual and group counseling, couples counseling and more. CAPS staff also provide outreach to student groups, particularly programs supportive of at-risk populations, on a wide range of issues impacting them in various aspects of campus life.
+
+**Duke Reach:** DukeReach directs students, faculty, staff, parents, and others to the resources available to help a student in need. DukeReach is located in the Dean of Students Office and works with departments and groups across campus and in the community, including Housing, CAPS, Student Health, community health providers, the Academic Resource Center, and more.
+
+**DuWell:** DuWell helps students focus on their individual wellness by looking at the integration of many areas of their life through areas of wellness promotion and risk mitigation.We engage students through a variety of wellness experiences across campus in an effort to reduce stress and anxiety while emphasizing self-care.
+
+We are always available if a student needs someone to listen or to connect them with resources. As employees of Duke, we are mandatory reporters, meaning that if we receive a report of sexual assault, we are required to confidentially report this to the Office of Student Conduct (OSC). The OSC will follow up with the student to provide further information, but the student is not required to respond and the conversation will not be shared beyond ourselves and the OSC. The following resources around campus are are not mandatory reporters: The Women’s Center, medical providers, campus clergy, and CAPS counselors.
+
+
 # Class Etiquette
 You should take responsibility for your education. I expect students to attend every class and get to class on time. If you must enter the class late, please do so quietly. Retain from using phones and tablets for social media during class. Some classes will involve coding on your laptop. I expect you to focus on the assignment and refrain from any web browsing that may disrupt the progress of your work.
 Your classmates deserve your respect and support. We will likely have students from many different backgrounds and countries in this class and you should all feel comfortable and make each other comfortable while participating.
@@ -90,6 +102,12 @@ All activities of Nicholas School students, including those in this course, are 
 * I will act if the Standard is compromised."
 
 Please add the following affirmation to the end of all assignments, and sign your name beside it: “I have adhered to the Duke Community Standard in completing this assignment.”
+
+# Policy for the use of Artificial Intelligence (AI) 
+
+We acknowledge that AI is a powerful tool and something we don’t want to ignore. We therefore allow you to explore how AI can be used in course materials, but with the following constraints:
+
+First, don’t blindly submit any AI produced text. Second, in the spirit of learning and transparency, do cite where and when you used AI in generating code and include the prompts used. Failing to do this when you have used AI to supplement your work will be considered a breach of the honor code.
 
 # Land Acknowledgment
 “What is now Durham was originally the territory of several Native nations, including Tutelo (TOO-tee-lo) and Saponi (suh-POE-nee) - speaking peoples.  Many of their communities were displaced or killed through war, disease, and colonial expansion.  Today, the Triangle is surrounded by contemporary Native nations, the descendants of Tutelo, Saponi, and other Indigenous peoples who survived early colonization.  These nations include the Haliwa-Saponi (HALL-i-wa suh-POE-nee), Sappony (suh-POE-nee), and Occaneechi (oh-kuh-NEE-chee) Band of Saponi.  North Carolina’s Research Triangle is also home to a thriving urban Native American community who represent Native nations from across the United States. Together, these Indigenous nations and communities contribute to North Carolina’s ranking as the state with the largest Native American population east of Oklahoma.”
