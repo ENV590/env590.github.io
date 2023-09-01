@@ -37,6 +37,15 @@ This second video shows the economic impact of having an outage in the old grids
 
 [Outage Impact](https://www.youtube.com/watch?v=2VGs7FdrSIE)
 
+For a comparison by country of transmission and distribution losses wordwide, you can see this graph from Statista. You will need to access via Duke Libraries since it's not available with  Statista free account.
+
+[Losses by Country](https://www-statista-com.proxy.lib.duke.edu/statistics/246481/transmission-and-distribution-losses-in-selected-countries/)
+
+Here you will find images of the power grid:
+
+* [US transmission grid](https://offgridworld.com/what-is-the-electric-power-grid-u-s-grid-map/)
+* [European high voltage transmission grid](http://www.geni.org/globalenergy/library/national_energy_grid/europe/europeannationalelectricitygrid.shtml) 
+
 ## Deliverables
 
 For this module you will do a journal entry using Sakai discussion. Here is the journal entry [J1](https://sakai.duke.edu/portal/site/fc198b90-9d77-4c6b-8708-c9d0d044be5b/tool/26e522a4-84f3-4d97-9ad5-a7c405e8ea92/discussionForum/message/dfAllMessages). The due date for J1 is Tuesday Sept 6 for journal entries and Friday Sept 10th for journal comments.
