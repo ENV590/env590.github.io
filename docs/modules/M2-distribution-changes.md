@@ -33,10 +33,22 @@ Required Reading: Chapter 1 from the book Smart Grids From a Global Perspective.
 
 <a href="/docs/modules/readings/M2_CH1_SmartGrids_GlobalPerspective.pdf" > Chapter 1 </a>
 
-Optional reading: If you want more information on the surveys conducted please refer to the following files.  
+Optional reading: 
+
+For more information on the surveys conducted please refer to the following files.  
 
 * <a href="/docs/modules/readings/M2_Vermont_experience.pdf" > Vermont Experience </a>
 * <a href="/docs/modules/readings/M2_Sweden_experience.pdf" > Sweden Experience </a>
+
+For more information on difusion of Smart meter in the US please refer to the PhD thesis below. 
+
+* <a href="/docs/modules/readings/M2_Strong_UNCg_PhDThesis.pdf" >
+The Early Diffusion of Smart Meters in the US Electric Power Industry > by Derek String (2017)
+
+For those of you curious about Apple's Clean Energy Charge option you can find more info on [Apple's website](https://support.apple.com/en-us/HT213323). The idea is that IOS will "wait" to charge the iPhone at a time when power grids are less constrained and more clean energy capacity is available. Please visit the link below for more details on how it works.
+
+* [ComputerWorld.com](https://www.computerworld.com/article/3690908/apples-clean-energy-charging-is-the-future-of-electronics.html)
+
 
 ## Topics for Discussion/Reflection
 

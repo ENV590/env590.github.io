@@ -46,6 +46,14 @@ Here you will find images of the power grid:
 * [US transmission grid](https://offgridworld.com/what-is-the-electric-power-grid-u-s-grid-map/)
 * [European high voltage transmission grid](http://www.geni.org/globalenergy/library/national_energy_grid/europe/europeannationalelectricitygrid.shtml) 
 
+## Topics for Discussion
+
+* What market structures best incentivizes smart grids? 
+
+* Why the US Grid Isn't Ready for the Renewable Energy Transition?
+
+* Regional and Interregional Transmission Development
+
 ## Deliverables
 
 For this module you will do a journal entry using Sakai discussion. Here is the journal entry [J1](https://sakai.duke.edu/portal/site/fc198b90-9d77-4c6b-8708-c9d0d044be5b/tool/26e522a4-84f3-4d97-9ad5-a7c405e8ea92/discussionForum/message/dfAllMessages). The due date for J1 is Tuesday Sept 6 for journal entries and Friday Sept 10th for journal comments.
