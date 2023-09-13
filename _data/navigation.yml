@@ -31,7 +31,7 @@ modules:
   - title: Module 2
     url: /docs/modules/M2/
   - title: Module 3
-   url: /docs/modules/M3/
+    url: /docs/modules/M3/
   # - title: Module 4
   #   url: /docs/modules/M4/
   # - title: Module 5
