@@ -19,7 +19,7 @@ In this module we will shift the discuss to electricity generation. The learning
 
 ## Slides
 
-Here is a <a href="/docs/modules/PPTS/PSE_M3_P1_SmartGrids_Generation.pdf" > link </a> to the slide deck used in class on the first part on how electricity generation will change. And here is another <a href="/docs/modules/PPTS/PSE_M3_P2_DistributedGeneration.pdf" > deck </a> on distributed generation.
+Here is a <a href="/docs/modules/PPTS/PSE_M3_F23_P1_SmartGrids_Generation.pdf" > link </a> to the slide deck used in class on the first part on how electricity generation will change. And here is another <a href="/docs/modules/PPTS/PSE_M3_F23_P2_DistributedGeneration.pdf" > deck </a> on distributed generation.
 
 
 ## Recordings (optional)
@@ -35,9 +35,9 @@ Here is a <a href="/docs/modules/PPTS/PSE_M3_P1_SmartGrids_Generation.pdf" > lin
 
 Additional information and resources for the data presented in this module will be found below. <br>
 
-* <a href="https://www.eia.gov/outlooks/aeo/pdf/AEO2022_ReleasePresentation.pdf" > Annual Energy Outlook - US </a>
+* <a href="https://www.eia.gov/outlooks/aeo/pdf/AEO2023_Release_Presentation.pdf" > Annual Energy Outlook - US </a>
 * <a href="https://www.eia.gov/outlooks/ieo/pdf/IEO2021_ReleasePresentation.pdf" > International Energy Outlook </a>
-* <a href="https://www.lazard.com/media/451905/lazards-levelized-cost-of-energy-version-150-vf.pdf" > LCOE - Lazard Report </a>
+* <a href="https://www.lazard.com/media/2ozoovyg/lazards-lcoeplus-april-2023.pdf" > LCOE - Lazard Report </a>
 
 Additional material on distributed generation. <br>
 
@@ -54,4 +54,4 @@ For information on how to download/install SAM and additional resources to get s
 
 ## Deliverables
 
-For this module you will complete [Assignment 1](https://sakai.duke.edu/portal/site/fc198b90-9d77-4c6b-8708-c9d0d044be5b/tool/bf736605-42a0-41a8-987a-754e3066d785?panel=Main). The due date for A1 is Friday Sept 23rd.
+For this module you will complete [Assignment 1](). The due date for A1 is Friday Sept 22nd.

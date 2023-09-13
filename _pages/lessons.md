@@ -23,7 +23,7 @@ The proposed schedule below is subject to change. My initial plan is to cover al
 | - | - | Sep 4 | **Labor Day no classes** |  |
 | L3 | M1/<a href="/docs/modules/M2/" > M2 </a> | Sep 6 | Introduction to Smart Grids or Modern Power Grids: Opportunities and Challenges <br> Smart Grid from Global Perspective: How electricity distribution will change? <br> Smart-meter deployment |- |
 | L4 | <a href="/docs/modules/M2/" > M2 </a> | Sep 11 |  ICT Perspectives, End user view,  <br> |[J2](https://sakai.duke.edu/portal/site/56a79f78-bc10-4a77-b8e8-7b82e8f11a73/tool/8ed68fc3-ad5b-4f2d-a117-2471455b2efd/discussionForum/message/dfAllMessages) |
-| L5 | <a href="/docs/modules/M2/" > M2 </a> | Sep 13 | DSO view <br> AMI deployment experience Vermont and Sweden <br> **Class Discussion** | - |
+| L5 | <a href="/docs/modules/M2/" > M2 </a> | Sep 13 | Utility/DSO view <br> AMI deployment experience Vermont and Sweden <br> **Class Discussion** | - |
 | L6 | <a href="/docs/modules/M3/" > M3 </a> | Sep 18 |  Smart Grid from Global Perspective: How electricity generation will change? <br> Paradigm shift, renewable energy resources <br> Distributed generation: definition, history, planning and operation <br> Case Study: Rooftop PV study case | [A1]() |
 | L7 | <a href="/docs/modules/M4/" > M4 </a> | Sep 20 |  Closer look at SAM <br> Challenges of DG Integration from a grid perspective    | - |
 | L8 | <a href="/docs/modules/M4/" > M4 </a> | Sep 21 | Solar Penetration Outlook <br> The Duck Curve and Possible Solutions | Watch videos on Intro to Linear Programming <br> J3 |
