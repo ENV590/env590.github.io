@@ -8,7 +8,7 @@ sidebar:
 
 ## Learning Objectives
 
-In this module we will shift the discuss to electricity generation. The learning outcomes of this module are:
+In this module we will shift the discussion to electricity generation. The learning outcomes of this module are:
 
 * Understanding the definition and characteristics of distributed generation;
 * Learning the main differences between conventional and renewable generation;
