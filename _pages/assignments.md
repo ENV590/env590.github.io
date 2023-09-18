@@ -19,6 +19,7 @@ You should use Sakai to submit your work. Assignments should be submitted using 
 |----|-------------|-------------------|
 | M1 | [J1](https://sakai.duke.edu/portal/site/56a79f78-bc10-4a77-b8e8-7b82e8f11a73/tool/8ed68fc3-ad5b-4f2d-a117-2471455b2efd/discussionForum/message/dfAllMessages) | Entry: Tuesday Sep 5th <br> Comment: Friday Sep 8th |
 | M2 | [J2](https://sakai.duke.edu/portal/site/56a79f78-bc10-4a77-b8e8-7b82e8f11a73/tool/8ed68fc3-ad5b-4f2d-a117-2471455b2efd/discussionForum/message/dfAllMessagess) | Entry: Tuesday Sep 12th <br> Comment: Friday Sep 15th |
+| M3 | A1 - Rooftop PV with SAM >br> [Sakai link](https://sakai.duke.edu/portal/site/56a79f78-bc10-4a77-b8e8-7b82e8f11a73/tool/418ca962-66be-4db5-8f3a-175a4fc98bfe?panel=Main) | Sep 25th |
 
 <!---
 | M3 | A1 - Rooftop PV with SAM <br> [Sakai link]() <br> <a href="/docs/assignments/A1_F2023_ENV590.pdf" > PDF link </a>| Sep 23rd|
