@@ -24,15 +24,14 @@ The proposed schedule below is subject to change. My initial plan is to cover al
 | L3 | <a href="/docs/modules/M1/" > M1 </a> / <a href="/docs/modules/M2/" > M2 </a> | Sep 6 | Introduction to Smart Grids or Modern Power Grids: Opportunities and Challenges <br> Smart Grid from Global Perspective: How electricity distribution will change?  |- |
 | L4 | <a href="/docs/modules/M2/" > M2 </a> | Sep 11 |  Smart-meter deployment <br> ICT Perspectives, End user view  <br> |[J2](https://sakai.duke.edu/portal/site/56a79f78-bc10-4a77-b8e8-7b82e8f11a73/tool/8ed68fc3-ad5b-4f2d-a117-2471455b2efd/discussionForum/message/dfAllMessages) |
 | L5 | <a href="/docs/modules/M2/" > M2 </a> | Sep 13 | Utility/DSO view <br> AMI deployment experience Vermont and Sweden <br> **Class Discussion on J1** | - |
-| L6 | <a href="/docs/modules/M3/" > M3 </a> | Sep 18 |  Smart Grid from Global Perspective: How electricity generation will change? <br> Paradigm shift, renewable energy resources |  |
-| L7 | <a href="/docs/modules/M3/" > M3 </a> | Sep 20 | Distributed generation: definition, history, planning and operation <br> Case Study: Rooftop PV study case | [A1](https://sakai.duke.edu/portal/site/56a79f78-bc10-4a77-b8e8-7b82e8f11a73/tool/418ca962-66be-4db5-8f3a-175a4fc98bfe?panel=Main) |
-| L8 | <a href="/docs/modules/M3/" > M3 | Sep 21 | Closer look at SAM <br> **Class Discussion on J2**|  |
+| L6 | <a href="/docs/modules/M3/" > M3 </a> | Sep 18 |  Smart Grid from Global Perspective: How electricity generation will change? <br> Paradigm shift, renewable energy resources | [A1](https://sakai.duke.edu/portal/site/56a79f78-bc10-4a77-b8e8-7b82e8f11a73/tool/418ca962-66be-4db5-8f3a-175a4fc98bfe?panel=Main)  |
+| L7 | <a href="/docs/modules/M3/" > M3 </a> | Sep 20 | Distributed generation: definition, history, planning and operation <br> Case Study: Rooftop PV study case Closer look at SAM <br> **Class Discussion on J2**|  |
 | L9 | <a href="/docs/modules/M3/" > M3 / <a href="/docs/modules/M4/" > M4 </a> | Sep 25 | Challenges of DG Integration from a grid perspective < br> Solar Penetration Outlook <br> The Duck Curve and Possible Solutions <br> | J3 |
 | L10 | <a href="/docs/modules/M5/" > M5 </a> | Sep 27 |  Distributed Energy Resources (DERs) <br> Economics of Energy Storage <br> Energy Storage Applications to Power Systems <br> Energy Systems Management <br>  | Watch videos on Intro to Linear Programming |
 | L11 | <a href="/docs/modules/M6/" > M6 </a> | Oct 2 | Linear Models in R using "lpsolveAPI" package and/or Python with Pyomo <br> Energy Storage Management Systems:  Residential PV + battery <br> Study case: storage management problem formulation | A2 |
 | L12 | <a href="/docs/modules/M6/" > M6 </a> | Oct 4 | Study case: storage management implementation in R/Python |  |
-| - | - | Oct 9 | | Impact of DER on grid operation/scheduling and planning <br> Economic dispatch problem with renewables <br> Case study - Hydro-thermal scheduling Brazil | A3 |
-| L13 | <a href="/docs/modules/M7/" > M7 </a>  | Oct 11 |  | Project Proposal (2-3 slides) |
+| L13 | <a href="/docs/modules/M7/" > M7 </a> | Oct 9 | Impact of DER on grid operation/scheduling and planning <br> Economic dispatch problem with renewables <br> Case study - Hydro-thermal scheduling Brazil | A3 |
+| L14 | <a href="/docs/modules/M7/" > M7 </a>  | Oct 11 | TBD | Project Proposal (2-3 slides) |
 | L15 | - | Oct 16 | **Fall break no classes**  |  |
 | L16 | - | Oct 18 | Class Project, Team building, Proposal presentations |  |
 | L17 | <a href="/docs/modules/M8/" > M8 | Oct 23 | Intro to Network Pricing - Transmission and Distribution Use of System Charges <br> Electricity Rate Structure |  |
