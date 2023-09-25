@@ -17,7 +17,7 @@ In this module we will continue talking about distributed generation from a grid
 
 ## Slides
 
-Here is a <a href="/docs/modules/PPTS/PSE_M4_DGIntegrationChallenges.pdf" > link </a> to the slide deck used in class.
+Here is a <a href="/docs/modules/PPTS/PSE_M4_F23_DGIntegrationChallenges.pdf" > link </a> to the slide deck used in class.
 
 
 ## Recordings (optional)
@@ -42,4 +42,4 @@ Additional information and resources for this module will be found below. <br>
 
 ## Deliverables
 
-For this module you will do a journal entry using Sakai discussion. Here is the journal entry [J3 link](https://sakai.duke.edu/portal/site/fc198b90-9d77-4c6b-8708-c9d0d044be5b/tool/26e522a4-84f3-4d97-9ad5-a7c405e8ea92/discussionForum/message/dfAllMessages). The due date for J3 is Tuesday Sept 27th for journal entries and Friday Sept 30th for journal comments.
+For this module you will do a journal entry using Sakai discussion. Here is the journal entry [J3 link](). The due date for J3 is Tuesday Oct 3rd for journal entries and Friday Oct 6th for journal comments.
