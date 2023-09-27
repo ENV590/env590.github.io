@@ -38,11 +38,7 @@ Additional information and resources for this module will be found below. <br>
 
 ## Topics for Discussion/Reflection
 
-* Grid Resilience and Stability: Discuss the challenges posed by the intermittent nature of distributed generation sources like solar and wind power and how they affect grid stability and resilience.
-
-* Grid Management and Control: Explore the need for advanced grid management and control systems to accommodate distributed generation, including the integration of smart grid technologies.
-
-* Technical Integration Challenges: Discuss technical issues such as voltage regulation, frequency control, and power quality problems that arise when integrating distributed generation into the grid.
+* Grid Resilience and Stability: Discuss the challenges posed by the intermittent nature of distributed generation sources like solar and wind power and how they affect grid stability and resilience. Discuss technical issues such as voltage regulation, frequency control, and power quality problems that arise when integrating distributed generation into the grid.
 
 * Grid Modernization Initiatives: Discuss specific grid modernization initiatives and case studies that highlight successful strategies for integrating distributed generation.
 
