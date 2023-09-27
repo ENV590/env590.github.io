@@ -34,7 +34,7 @@ Here is a <a href="/docs/modules/PPTS/PSE_M4_F23_DGIntegrationChallenges.pdf" > 
 Additional information and resources for this module will be found below. <br>
 
 * <a href="/docs/modules/readings/M4_DG_Overview_KeyExamples.pdf" > Distributed Generation in Power Systems: An Overview and Key Issues </a>
-* <a href="/docs/modules/readings/M4_NREL_Solar_S2022.pdf" > NREL Solar Industry Outlook April 2022 </a>
+* <a href="/docs/modules/readings/M4_NREL_Solar_S2023.pdf" > NREL Solar Industry Outlook April 2022 </a>
 
 ## Topics for Discussion/Reflection
 
