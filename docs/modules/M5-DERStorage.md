@@ -20,8 +20,16 @@ In this module we will talk about distributed energy resources with focus on ele
 
 Here is a <a href="/docs/modules/PPTS/PSE_M5_DER_Storage.pdf" > link </a> to the slide deck used in class.
 
+## Resources
 
-## Recordings on LPs
+And here are additional resources and readings for energy storage.
+
+* <a href="/docs/modules/readings/M5_gridmod.pdf" > 50 States of Grid Modernization </a>
+* <a href="/docs/modules/readings/M5_ElectES.pdf" > Overview of current development in electrical energy storage </a>
+* <a href="/docs/modules/readings/M5_DOE-Liftoff-LDES-vPUB.pdf" > Long Duration Energy Storage
+
+
+## Recordings on Linear Programming
   <ul>
   {% for row in site.data.Recordings %}
   {% if row.M == "M1" %}
@@ -33,13 +41,6 @@ Here is a <a href="/docs/modules/PPTS/PSE_M5_DER_Storage.pdf" > link </a> to the
 * Intro to Operations Research and Linear Programming [recording](https://youtu.be/2HdF3Uprz2s)).
 * Linear Programming in R with lpsolve [recording](https://youtu.be/HwdVA__DfRM).
 * Linear Programming in Python with Pyomo [recording](https://youtu.be/PIghwRli-S4)
-
-## Resources
-
-And here are additional resources and readings for energy storage.
-
-* <a href="/docs/modules/readings/M5_gridmod.pdf" > 50 States of Grid Modernization </a>
-* <a href="/docs/modules/readings/M5_ElectES.pdf" > Overview of current development in electrical energy storage </a>
 
 For more information on LPs and the water heater/chemical solution example, please refer to the additional slides on linear programming linked below. You do not need to worry about the graphical solution since we will use computer solvers to solve our models.
 
