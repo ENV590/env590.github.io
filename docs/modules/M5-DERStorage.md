@@ -38,7 +38,7 @@ And here are additional resources and readings for energy storage.
   {% endfor %}
   </ul>
 
-* Intro to Operations Research and Linear Programming [recording](https://youtu.be/2HdF3Uprz2s)).
+* Intro to Operations Research and Linear Programming [recording](https://youtu.be/2HdF3Uprz2s).
 * Linear Programming in R with lpsolve [recording](https://youtu.be/HwdVA__DfRM).
 * Linear Programming in Python with Pyomo [recording](https://youtu.be/PIghwRli-S4)
 
