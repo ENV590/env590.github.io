@@ -1,4 +1,5 @@
 ---
+title: "Getting Started With Google Colab and Python"
 layout: single
 permalink: /docs/modules/codes/colab/
 sidebar:
@@ -6,7 +7,6 @@ sidebar:
 ---
 
 
-# Getting Started With Google Colab and Python
 
 We will use Python and Google Colaboratory to solve LP models. Google Colaboratory, or “Colab” for short, is a web-based iPython Notebook service for interactive coding. It allows you to write and execute Python in your browser, with zero configuration required, free access to GPUs and easy sharing. Zero configuration required means you do not need to have Python, Anaconda and libraries installed to your local machine. Google Colab is very similar to Jupyter Notebook.
 
