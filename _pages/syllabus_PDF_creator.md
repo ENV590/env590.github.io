@@ -75,8 +75,18 @@ The course consists of in-person lectures and discussions based on the readings.
 
 You will work on assignments and journal in groups of two to ensure you are getting to know each other and also getting experience working as a team. There will be 5 assignments. The assignments involve reading and applying concepts and tools learned in class to an specific data set or problem. For the assignment you can choose your own group. But for the journal you will be rotating pairs. Two students should not work together for more than one week. More information to come later once I have the final number of enrolled students.
 
+# Course Topics
+
+``` {.include}
+modulelist.md
+```
+
 # Course Schedule
-Please check our detailed proposed schedule <a href="/_pages/lessons" > here </a>.
+
+<!-- Please check our detailed proposed schedule <a href="/_pages/lessons" > here </a>.-->
+``` {.include}
+lessons.md
+```
 
 # Wellness & Mental Health Resources
 
