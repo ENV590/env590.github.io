@@ -6,8 +6,6 @@ sidebar:
  nav: modules
 ---
 
-
-
 We will use Python and Google Colaboratory to solve LP models. Google Colaboratory, or “Colab” for short, is a web-based iPython Notebook service for interactive coding. It allows you to write and execute Python in your browser, with zero configuration required, free access to GPUs and easy sharing. Zero configuration required means you do not need to have Python, Anaconda and libraries installed to your local machine. Google Colab is very similar to Jupyter Notebook.
 
 Google Colab documents have extension *.ipynb* and use the Markdown format which means you can create a document that contains text, images and executable code.

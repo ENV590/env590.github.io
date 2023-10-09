@@ -57,4 +57,4 @@ The script in R created in the video is available for download <a href="/docs/mo
 
 ## Deliverables
 
-For this module you will complete [Assignment 2](). The due date for A2 is Friday Oct 13th.
+For this module you will complete [Assignment 2](https://sakai.duke.edu/portal/directtool/418ca962-66be-4db5-8f3a-175a4fc98bfe/). The due date for A2 is Friday Oct 13th.
