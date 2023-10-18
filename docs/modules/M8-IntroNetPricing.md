@@ -36,9 +36,9 @@ Here is a <a href="/docs/modules/PPTS/PSE_M8_IntrotoPricingI_OPEX_part1.pdf" > l
 
 Additional resources and readings on network pricing.
 
-* <a href="/docs/modules/readings/M8_TAC_Structure.pdf" > Transmission Access Charges </a>
+* <a href="/docs/modules/readings/M8_TAC_Structure.pdf" > Transmission Access Charges - CAISO </a>
 * <a href="/docs/modules/readings/M8_Paper_Dist_Pricing_IEEE.pdf" > Distribution Network Pricing World Wide Trend </a>
-* * <a href="/docs/modules/readings/M8_ProFormaOATT.pdf" > Open Access Transmission Tariff - Federal Energy Regulatory Commision </a>
+* <a href="/docs/modules/readings/M8_ProFormaOATT.pdf" > Open Access Transmission Tariff - Federal Energy Regulatory Commision </a>
 
 For detailed information on North Carolina please visit the North Carolina Utilities Comission [website](https://www.ncuc.gov). 
 
