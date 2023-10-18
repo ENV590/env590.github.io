@@ -29,19 +29,24 @@ The proposed schedule below is subject to change. My initial plan is to cover al
 | L8 | <a href="/docs/modules/M3/" > M3 / <a href="/docs/modules/M4/" > M4 </a> | Sep 25 | Challenges of Renewable Integration <br> from a grid perspective < br> DG integration to Power Systems <br> DG Optimization: Siting, Sizing, Operating and Planning   | J3 |
 | L9 | <a href="/docs/modules/M4/" > M4 </a> | Sep 27 | Solar Penetration Outlook <br> The Duck Curve and Possible Solutions <br>  | |
 | L10 |<a href="/docs/modules/M5/" > M5 </a>  | Oct 2 | Distributed Energy Resources (DERs) <br> Economics of Energy Storage <br> Energy Storage Applications to Power Systems <br> Energy Systems Management <br>  | Watch videos on Intro to Linear Programming  |
-| L11 | <a href="/docs/modules/M6/" > M6 </a> | Oct 4 | Linear Models in R using "lpsolveAPI" package and/or Python with Pyomo <br> Energy Storage Management Systems:  Residential PV + battery <br> Study case: storage management problem formulation | A2 |
-| L12 | <a href="/docs/modules/M7/" > M7 </a> | Oct 9 | Study case: storage management implementation in R/Python | |
-| L13 | <a href="/docs/modules/M7/" > M7 </a>  | Oct 11 | Impact of DER on grid operation/scheduling and planning <br> Economic dispatch problem with renewables <br> Case study - Hydro-thermal scheduling Brazil | A3 |
+| L11 | <a href="/docs/modules/M6/" > M6 </a> | Oct 4 | Linear Models in R using "lpsolveAPI" package and/or Python with Pyomo <br> Discuss A2 instructions  | A2 |
+| L12 | <a href="/docs/modules/M6/" > M6 </a> | Oct 9 | Energy Storage Management Systems:  Residential PV + battery <br> Study case: storage management problem formulation | |
+| L13 | <a href="/docs/modules/M6/" > M6 </a>  | Oct 11 | Study case: storage management implementation in R/Python | A3 |
 | - | - | Oct 16 | **Fall break no classes**  |  |
-| L14 | - | Oct 18 | Class Project, Team building, Proposal presentations | Project Proposal (2-3 slides) |
-| L15 | <a href="/docs/modules/M8/" > M8 | Oct 23 | Intro to Network Pricing - Transmission and Distribution Use of System Charges <br> Electricity Rate Structure |  |
-| L16 | <a href="/docs/modules/M8/" > M8 | Oct 25 | Guest Speaker: [Jeffrey Hughes](https://www.linkedin.com/in/jeff-hughes-74b58912/), Utilities Commissioner at North Carolina Utilities Commission | J5 |
+| L14 | - | Oct 18 | Class Project, Team building, Proposal presentations <br> Discuss A3 instructions| Project Proposal (2-3 slides) |
+| L15 | <a href="/docs/modules/M8/" > M8 | Oct 23 | Guest Speaker: [Jeffrey Hughes](https://www.linkedin.com/in/jeff-hughes-74b58912/), Utilities Commissioner at North Carolina Utilities Commission |  |
+| L16 | <a href="/docs/modules/M8/" > M8 | Oct 25 | Intro to Network Pricing - Transmission and Distribution Use of System Charges <br> Electricity Rate Structure | J5 |
 | L17 | <a href="/docs/modules/M9/" > M9 | Oct 30| Revenue Requirement (CAPEX + OPEX) <br> How to calculate efficient operational expenditure? |  |
 | L18 | <a href="/docs/modules/M9/" > M9 | Nov 1 | Utility benchmark analysis using Data Envelopment Analysis (DEA) | A4 |
 | L19 | - | Nov 6 | **Energy Week - TBD** <br> Asynchronous recorded videos on power flow calculation  | Watch posted videos |
-| L20 | - | Nov 8 | **Energy Week - no class** <br> Attend a panel as part of the 2023 Energy conference. <br> Please register [here]().  |  J6 <br> Write a reflection about one of the panels |
+| L20 | - | Nov 8 | **Energy Week Conference - no class** <br> Attend a panel as part of the 2023 Energy conference. <br> Please register [here]().  |  J6 <br> Write a reflection about one of the panels |
 | L21 | <a href="/docs/modules/M10/" > M10 | Nov 13 | Guest Speaker: [Franco Ghadiri](https://www.linkedin.com/in/franco-ghadiri/), California Energy Commission  | Work on project |
 | L22 | <a href="/docs/modules/M10/" > M10 | Nov 15 | Cost allocation: Principles and assumptions, Fixed & Incremental/marginal cost methods <br>  | Work on project |
 | L23 | <a href="/docs/modules/M10/" > M10 | Nov 20  | Cost allocation: Case Study 6-bus system | Work on project |
 | L24 | <a href="/docs/modules/M10/" > M10 | Nov 22  | **Thanksgiving no class** |  |
 | L25/ <br> L26 | - | Nov 27 - 29 |  **Final Project Presentations** | Project Presentation |
+
+<!---
+
+M7 Impact of DER on grid operation/scheduling and planning <br> Economic dispatch problem with renewables <br> Case study - Hydro-thermal scheduling Brazil
+--->

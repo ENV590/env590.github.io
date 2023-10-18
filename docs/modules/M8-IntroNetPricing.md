@@ -46,4 +46,4 @@ Additional resources and readings on network pricing.
 
 ## Deliverables
 
-For this module you will do a journal entry using Sakai discussion. Here is the journal entry [J5 link](https://sakai.duke.edu/portal/site/fc198b90-9d77-4c6b-8708-c9d0d044be5b/tool/26e522a4-84f3-4d97-9ad5-a7c405e8ea92/discussionForum/message/dfAllMessages). The due date for J5 is Tuesday Nov 1st for journal entries and Friday Nov 4th for journal comments.
+For this module you will do a journal entry using Sakai discussion. Here is the journal entry [J4 link](https://sakai.duke.edu/portal/site/56a79f78-bc10-4a77-b8e8-7b82e8f11a73/tool/8ed68fc3-ad5b-4f2d-a117-2471455b2efd/discussionForum/message/dfAllMessages). The due date for J4 is Tuesday Oct 31st for journal entries and Friday Nov 3rd for journal comments.
