@@ -51,5 +51,5 @@ Additional resources and readings on benchmark analysis.
 ## Deliverables
 
 
- For this module you will complete [Assignment 4](). The due date for A4 is Friday Nov 17.
+ For this module you will complete [Assignment 4](https://sakai.duke.edu/portal/site/56a79f78-bc10-4a77-b8e8-7b82e8f11a73/tool/418ca962-66be-4db5-8f3a-175a4fc98bfe?panel=Main). The due date for A4 is Friday Nov 17.
  

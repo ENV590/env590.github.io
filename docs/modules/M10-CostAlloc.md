@@ -20,7 +20,7 @@ In this module we will talk about the fundamentals of cost allocation methods an
 
 ## Slides
 
-Here is a <a href="/docs/modules/PPTS/PSE_M10_CostAllocation.pdf" > link </a> to the slide deck used in class.
+Here is a <a href="/docs/modules/PPTS/PSE_M10_F23_CostAllocation.pdf" > link </a> to the slide deck used in class.
 
 
 ## Recordings
@@ -42,7 +42,7 @@ Here is a <a href="/docs/modules/PPTS/PSE_M10_CostAllocation.pdf" > link </a> to
 
 ## Resources
 
-Additional resources and readings on benchmark analysis.
+Additional resources and readings.
 
 * <a href="/docs/modules/readings/M10_DistTariffDesign.pdf" > Tariff Design for Distribution Systems </a>
 

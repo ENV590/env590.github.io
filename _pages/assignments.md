@@ -26,7 +26,7 @@ You should use Sakai to submit your work. Assignments should be submitted using 
 | M6 | A3 - PV + Storage management system <br> [Sakai Link](https://sakai.duke.edu/portal/site/56a79f78-bc10-4a77-b8e8-7b82e8f11a73/tool/418ca962-66be-4db5-8f3a-175a4fc98bfe?panel=Main) <br> | Oct 27th|
 | M7 | No assignments | - |
 | M8 | [J4](https://sakai.duke.edu/portal/site/56a79f78-bc10-4a77-b8e8-7b82e8f11a73/tool/8ed68fc3-ad5b-4f2d-a117-2471455b2efd/discussionForum/message/dfAllMessages) | Entry: Thursday Nov 2nd <br> Comment: Monday Nov 6th |
-| M9 | A4  <br> [Sakai Link]() | Nov 17th|
+| M9 | A4  <br> [Sakai Link](https://sakai.duke.edu/portal/site/56a79f78-bc10-4a77-b8e8-7b82e8f11a73/tool/418ca962-66be-4db5-8f3a-175a4fc98bfe?panel=Main) | Nov 17th|
 | M10 | No assignments | - |
 | Final Project | FP2 - Presentation Deck  <br> [Sakai link]()| Dec 1st |
 
