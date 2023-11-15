@@ -39,12 +39,12 @@ The proposed schedule below is subject to change. My initial plan is to cover al
 | L17 | <a href="/docs/modules/M9/" > M9 | Oct 30| Revenue Requirement (CAPEX + OPEX) <br> How to calculate efficient operational expenditure? |  |
 | L18 | <a href="/docs/modules/M9/" > M9 | Nov 1 | Utility benchmark analysis using Data Envelopment Analysis (DEA) | A4 |
 | L19 | - | Nov 6 | DEA Case Study <br> Cost allocation: Principles and assumptions  | Watch posted videos |
-| L20 | - | Nov 8 | **Energy Week Conference - no class** <br> Attend a panel as part of the 2023 Energy conference. <br> Please register [here]().  |  J6 <br> Write a reflection about one of the panels |
+| L20 | - | Nov 8 | **Energy Week Conference - no class** <br> Attend a panel as part of the 2023 Energy conference. <br> Please register [here]().  |  J5 <br> Optional: Write a reflection about one of the panels |
 | L21 | <a href="/docs/modules/M10/" > M10 | Nov 13 | Guest Speaker: [Franco Ghadiri](https://www.linkedin.com/in/franco-ghadiri/), California Energy Commission  | Work on project |
-| L22 | <a href="/docs/modules/M10/" > M10 | Nov 15 | Cost allocation: Fixed & Incremental/marginal cost methods <br>  | Work on project |
-| L23 | <a href="/docs/modules/M10/" > M10 | Nov 20  | Cost allocation: Case Study 6-bus system | Work on project |
+| L22 | <a href="/docs/modules/M10/" > M10 | Nov 15 | Cost allocation: Fixed & Incremental/marginal cost methods <br> Cost allocation: Case Study 6-bus system | Work on project |
+| L23 | <a href="/docs/modules/M10/" > M10 | Nov 20  | Course Evaluation <br> Work on project presentation | Final project |
 | L24 | <a href="/docs/modules/M10/" > M10 | Nov 22  | **Thanksgiving no class** |  |
-| L25/ <br> L26 | - | Nov 27 - 29 |  **Final Project Presentations** | Project Presentation |
+| L25/ <br> L26 | - | Nov 27 - 29 |  **Final Project Presentations** |  |
 
 <!---
 
